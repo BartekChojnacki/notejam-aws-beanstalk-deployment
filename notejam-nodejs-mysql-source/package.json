@@ -23,7 +23,7 @@
     "mysql": "*",
     "nodemailer": "*",
     "nodemailer-stub-transport": "*",
-    "npm": "^6.13.6",
+    "npm": "^6.14.6",
     "orm": "~2.1.19",
     "passport": "0.2.1",
     "passport-local": "1.0.0",
